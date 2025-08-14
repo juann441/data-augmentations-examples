@@ -15,7 +15,7 @@ Ce notebook permet de **visualiser en temps réel les effets de différentes dat
 
 Voici un exemple généré par le notebook sur la même image originale :
 
-![](exemple_augmentations.png)
+![](exemple_augmentation.png)
 
 > Chaque subplot indique la transformation appliquée et ses paramètres.
 
